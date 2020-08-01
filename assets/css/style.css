@@ -983,3 +983,9 @@ span {
   height: 90px;
 }
 
+.judul-artikel{
+  margin-top: 110px;
+  color:white;
+  font-size: calc(1.800rem + 1.6vw);
+  font-family: "Times New Roman", Courier, serif;
+}
